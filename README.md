@@ -1,7 +1,9 @@
 
 # EasySHARE-Seq Analysis
 
-This document provides a step-by-step guide for setting up the **easySHARE_seq** analysis environment, compiling the C++ code, and running the test demultiplexing runs. Follow the instructions below to ensure proper installation and configuration.
+This document provides a step-by-step guide for setting up the **easySHARE_seq** analysis environment, compiling the C++ code, and running the test demultiplexing runs. Follow the instructions below to ensure proper installation and configuration on KI Luria computing cluster.
+
+The original code credit refers to https://github.com/vosoltys/easySHARE_seq/tree/main.
 
 ---
 
