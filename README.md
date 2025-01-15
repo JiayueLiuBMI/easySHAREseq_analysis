@@ -1,6 +1,4 @@
-Here is the complete `README.md` markdown file for your project setup:
 
-```markdown
 # EasySHARE Seq Workstation Setup
 
 This document provides a step-by-step guide for setting up the **easySHARE_seq** analysis environment, compiling the C++ code, and running the test demultiplexing runs. Follow the instructions below to ensure proper installation and configuration.
