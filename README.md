@@ -1,5 +1,5 @@
 
-# EasySHARE Seq Workstation Setup
+# EasySHARE Seq Analysis
 
 This document provides a step-by-step guide for setting up the **easySHARE_seq** analysis environment, compiling the C++ code, and running the test demultiplexing runs. Follow the instructions below to ensure proper installation and configuration.
 
@@ -7,7 +7,7 @@ This document provides a step-by-step guide for setting up the **easySHARE_seq**
 
 ## 1. Setup EasySHARE Seq Workstation
 
-### 1.1 Create a Folder for the Workstation
+### 1.1 Create a an analysis folder
 Create a directory called `easySHARE_seq_workstation` in your desired location:
 
 ```bash
